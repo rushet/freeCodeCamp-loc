@@ -3,7 +3,7 @@ import path from 'path';
 
 /* This can be used to create NGINX maps for redirects. After running this
    script with `npx ts-node redirect-gen`, the map should appear in the current
-   directory.
+   directory!
 */
 
 function createRedirectMap(): void {
